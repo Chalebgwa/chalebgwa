@@ -1,61 +1,30 @@
-# Chalebgwa's GitHub Profile
+# Pako Chalebgwa
 
-Welcome to my GitHub profile! Here's a list of all my contributions:
+**Software Engineer**
 
-## Contact Information
+I am a seasoned software engineer with a decade of coding experience, bringing a wealth of knowledge and expertise to the table. My journey in software development is self-taught, driven by a passion for technology and continuous learning.
 
-- 📞 Phone: +26772124887
-- 📧 Email: [chalebgwa.bc@gmail.com](mailto:chalebgwa.bc@gmail.com)
-- 💼 LinkedIn: [Chalebgwa](https://www.linkedin.com/in/chalebgwa/)
+With a strong command of multiple programming languages, I specialize in React, Dart, Python, C#, and Node.js. I find the most efficient solutions to create robust and scalable applications across various platforms. My expertise spans full-stack development, enabling me to build both the front-end and back-end of applications with precision and efficiency.
 
-## Contributions
+Over the years, I have mastered cloud technologies such as Amazon Web Services (EC2), Digital Ocean, and Docker. This experience ensures the seamless deployment and maintenance of high-performance applications. My proficiency with web servers including Nginx, Firebase, Appwrite, and Supabase allows me to deliver secure, scalable solutions.
 
-### Commits in 2023
-- **March:** 150
-- **February:** 200
-- **January:** 100
+My journey has been marked by numerous hackathon victories, underscoring my ability to devise innovative solutions under pressure. A self-motivated learner, I continuously explore and master new technologies, ensuring I remain at the cutting edge of the tech industry.
 
-[![Commits](https://img.shields.io/github/commit-activity/y/chalebgwa/chalebgwa)](https://github.com/chalebgwa/chalebgwa/commits/main)
+### Skills
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" style="background-color:#ff0000;" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="background-color:#ff0000;" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="background-color:#ff0000;" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="background-color:#ff0000;" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="background-color:#ff0000;" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="background-color:#ff0000;" /></a>
+</p>
 
-### Stats
+### Contact Information
+📞 Phone: +26772124887  
+📧 Email: chalebgwa.bc@gmail.com  
+💼 LinkedIn: [Chalebgwa](https://www.linkedin.com/in/chalebgwa)  
 
-[![GitHub followers](https://img.shields.io/github/followers/chalebgwa?style=social)](https://github.com/chalebgwa?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/chalebgwa/)
+Feel free to connect with me on [GitHub](https://github.com/chalebgwa) or reach out via email.
 
-[![Total Public Contributions](https://img.shields.io/github/commit-activity/y/chalebgwa/chalebgwa?label=Public%20Contributions&style=flat-square)](https://github.com/chalebgwa/chalebgwa/commits/main)
-[![Total Private Contributions](https://img.shields.io/github/commit-activity/y/chalebgwa/chalebgwa-private?label=Private%20Contributions&style=flat-square)](https://github.com/chalebgwa/chalebgwa-private/commits/main)
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/chalebgwa/chalebgwa?label=Open%20Issues&style=flat-square)](https://github.com/chalebgwa/chalebgwa/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/chalebgwa/chalebgwa?label=Open%20Pull%20Requests&style=flat-square)](https://github.com/chalebgwa/chalebgwa/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/chalebgwa/chalebgwa?style=social)](https://github.com/chalebgwa/chalebgwa/stargazers)
-
-[![GitHub languages](https://img.shields.io/github/languages/count/chalebgwa/chalebgwa?style=flat-square)](https://github.com/chalebgwa/chalebgwa)
-[![GitHub top language](https://img.shields.io/github/languages/top/chalebgwa/chalebgwa?style=flat-square)](https://github.com/chalebgwa/chalebgwa)
-
-[![GitHub license](https://img.shields.io/github/license/chalebgwa/chalebgwa?style=flat-square)](https://github.com/chalebgwa/chalebgwa/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/chalebgwa/chalebgwa?style=flat-square)](https://github.com/chalebgwa/chalebgwa/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/chalebgwa/chalebgwa?style=flat-square)](https://github.com/chalebgwa/chalebgwa)
-
-## Projects
-
-Here are some of the projects I've contributed to:
-
-- [Project 1](https://github.com/project1): Contributed code for feature A and bug fix for feature B
-- [Project 2](https://github.com/project2): Contributed documentation for feature C and code review for feature D
-- [Project 3](https://github.com/project3): Contributed code for feature E and unit tests for feature F
-
-## Skills
-
-Here are some of the programming languages and technologies I'm proficient in:
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-Thank you for visiting my GitHub profile! Please feel free to reach out to me via phone, email, or LinkedIn.
+---
