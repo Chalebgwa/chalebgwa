@@ -8,7 +8,7 @@
 
 Hi there! I'm Pako, a self-taught code maestro from Gaborone, Botswana. By day, I architect scalable apps; by night, I fine-tune Lottie animations and debug with one eye open. Always fueled by coffee and an unwavering commitment to keep Princess (my cat) purring with Whiskers-brand delicacies.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chalebgwa.profile) ![Now Playing](https://spotify-now-playing.vercel.app/api?user=chalebgwa)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chalebgwa.profile) 
 
 ## 💼 What I Do
 
