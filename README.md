@@ -10,11 +10,10 @@
 
 - [About Me](#about-me)  
 - [Tech Stack](#tech-stack)  
-- [Featured Projects](#featured-projects)  
 - [Spotlight Projects](#spotlight-projects)  
+- [Featured Projects](#featured-projects)  
 - [GitHub Stats & Activity](#github-stats--activity)  
 - [Fun Extras](#fun-extras)  
-- [Upcoming Talks](#upcoming-talks)  
 - [Connect](#connect)  
 
 ---
@@ -52,9 +51,21 @@ I’m Pako, a self-taught code maestro from Gaborone, Botswana. By day I build s
 
 | Project    | Description                                                                                         | Repo Link                                        |
 |------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| **Veritas**  | AI business-planning & automation—turn raw data into dynamic strategies.                            | https://github.com/chalebgwa/Veritas             |
-| **Poseidon** | Cyber-awareness trainer for Blue Teams—interactive APT sims, hands-on drills & gamified learning. | https://github.com/chalebgwa/Poseidon            |
-| **Insight**  | Web pentesting & APT simulation framework—env detection, obfuscation & reporting.                  | https://github.com/chalebgwa/Insight             |
+| **Project Veritas**  | AI business-planning & automation—turn ideas into comprehensive business plans with ML insights.                            | https://github.com/chalebgwa/project_veritas             |
+| **Poseidon** | APT simulation framework for cybersecurity research—modular toolkit for security training & detection rule testing. | https://github.com/chalebgwa/poseidon            |
+| **Insight**  | Web pentesting & APT simulation framework—environment detection, obfuscation & security reporting.                  | https://github.com/chalebgwa/insight             |
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Repo Link |
+|---------|-------------|------------|-----------|
+| **Themis** | Law firm management tool with client handling, smart calendar, and transaction monitoring | Dart/Flutter | https://github.com/chalebgwa/Themis |
+| **Course Guide** | Interactive Flutter app for course navigation and academic planning | Dart/Flutter | https://github.com/chalebgwa/course_guide |
+| **Gadget Security** | Device ownership proof system with QR codes, peer trading, and security alerts | Dart/Flutter, Firebase | https://github.com/chalebgwa/gadget-security |
+| **SkeifCV** | Free CV builder with modern templates for professional resumes | HTML/CSS/JS | https://github.com/chalebgwa/SkeifCV |
+| **Global Transparency Dashboard** | Data visualization dashboard for transparency metrics and analytics | JavaScript, MIT License | https://github.com/chalebgwa/global-transparency-dashboard |
 
 ---
 
