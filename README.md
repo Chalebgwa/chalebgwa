@@ -62,7 +62,6 @@ I’m Pako, a self-taught code maestro from Gaborone, Botswana. By day I build s
 | Project | Description | Tech Stack | Repo Link |
 |---------|-------------|------------|-----------|
 | **Themis** | Law firm management tool with client handling, smart calendar, and transaction monitoring | Dart/Flutter | https://github.com/chalebgwa/Themis |
-| **Course Guide** | Interactive Flutter app for course navigation and academic planning | Dart/Flutter | https://github.com/chalebgwa/course_guide |
 | **Gadget Security** | Device ownership proof system with QR codes, peer trading, and security alerts | Dart/Flutter, Firebase | https://github.com/chalebgwa/gadget-security |
 | **SkeifCV** | Free CV builder with modern templates for professional resumes | HTML/CSS/JS | https://github.com/chalebgwa/SkeifCV |
 | **Global Transparency Dashboard** | Data visualization dashboard for transparency metrics and analytics | JavaScript, MIT License | https://github.com/chalebgwa/global-transparency-dashboard |
