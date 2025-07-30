@@ -91,9 +91,9 @@ I’m Pako, a self-taught code maestro from Gaborone, Botswana. By day I build s
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chalebgwa/chalebgwa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chalebgwa/chalebgwa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chalebgwa/chalebgwa/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chalebgwa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chalebgwa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/chalebgwaß/output/github-snake.svg" />
 </picture>
 
 *Always open to cat memes, code collabs, and deep dives into AI ethics.*  
