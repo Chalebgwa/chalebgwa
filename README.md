@@ -22,7 +22,7 @@
 
 I’m Pako, a self-taught code maestro from Gaborone, Botswana. By day I build scalable apps; by night I fine-tune Lottie animations and debug with one eye open—always fueled by coffee and keeping Princess (my cat) purring!
 
-- **Pronouns**: He/Him  
+
 - **Interests**: AI, Cybersecurity, Game Dev, UI/UX Design  
 
 ---
