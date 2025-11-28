@@ -34,6 +34,8 @@ This is infrastructure disguised as simple interfaces.
 
 ---
 
+[![committers.top badge](https://user-badge.committers.top/botswana_private/chalebgwa.svg)](https://user-badge.committers.top/botswana_private/chalebgwa)
+
 ## 🔧 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
