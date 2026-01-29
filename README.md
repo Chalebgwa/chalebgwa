@@ -39,7 +39,7 @@ It’s infrastructure wearing a friendly UI.
 [![committers.top badge](https://user-badge.committers.top/botswana_private/chalebgwa.svg)](https://user-badge.committers.top/botswana_private/chalebgwa)
 
 ---
-
+```mermaid
 stateDiagram-v2
   direction LR
 
@@ -67,6 +67,7 @@ stateDiagram-v2
     Duplicate events happen.
     Systems must remain correct.
   end note
+```
 
 
 ---
