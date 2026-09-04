@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chalebgwa.profile)
 
-**Product Engineer** • **Software Engineer** • **UI/UX Systems Designer** • **Full-Stack Architect** • **Cat Dad** • **Visual Thinker**
+**Product Engineer** • **Software Engineer** • **UI/UX Systems Designer** • **Full-Stack Architect** • **Former Cat Dad** • **Dog Father Of Two**  • **Visual Thinker**
 
 I build systems where **reliability, clarity, and trust** aren’t marketing — they’re requirements.
 
