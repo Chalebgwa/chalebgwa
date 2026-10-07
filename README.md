@@ -1,176 +1,73 @@
 # Pako Chalebgwa
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chalebgwa.profile)
+**Senior Product Engineer**  
+Full-Stack Systems · Fintech · Data Platforms · Product Architecture
 
-**Product Engineer** • **Software Engineer** • **UI/UX Systems Designer** • **Full-Stack Architect** • **Former Cat Dad** • **Dog Father Of Two**  • **Visual Thinker**
+I build systems that turn complex operations into usable software.
 
-I build systems where **reliability, clarity, and trust** aren’t marketing — they’re requirements.
+Based in **Gaborone, Botswana (UTC+2)**. Open to remote engineering roles and contracts.
 
----
+[Portfolio](https://chalebgwa.dev) · [LinkedIn](https://linkedin.com/in/chalebgwa) · [Email](mailto:chalebgwa.bc@gmail.com)
 
-## 📋 Quick Links
+## What I bring
 
-- [About Me](#about-me)  
-- [Tech Stack](#tech-stack)  
-- [Spotlight Projects](#-spotlight-projects)  
-- [Featured Projects](#-featured-projects)  
-- [GitHub Stats & Activity](#-github-stats--activity)  
-- [Fun Extras](#-fun-extras)  
-- [Connect](#-connect)  
+I work across frontend systems, APIs, integrations, data workflows and cloud infrastructure. My experience spans financial operations, government services and consumer products—from translating requirements into application workflows through integration testing, release and production troubleshooting.
 
----
+- **Financial operations:** bank, wallet, merchant and administrative portals; transaction reporting, reconciliation views and provider integrations.
+- **Product delivery:** React/TypeScript interfaces, reusable components and business workflows connected to backend services.
+- **Integration reliability:** investigating authentication, connectivity, callback and transaction failures across application and provider boundaries.
+- **Data processing:** contributions to Kafka ingestion, batching, dead-letter handling, offset management and idempotent replay.
 
-## 🧑‍💻 About Me
+**Core stack:** TypeScript · React · Node.js · Python · SQL · Firebase · GCP  
+**Supporting tools:** Flutter · Express · MongoDB · Kafka · Docker · GitHub Actions
 
-I design and ship **high-trust product systems** end-to-end: data, UI, workflows, infra — aligned on purpose.
+## Selected engineering work
 
-What I care about:
-- **Deterministic workflows**: explicit state machines, predictable failure modes, clean transitions.
-- **Idempotent backend flows**: retries, drops, duplicate webhooks — still correct.
-- **Security + auditability**: verification, sequencing, traceability, “nothing breaks silently.”
-- **UI systems with discipline**: tokens, spacing rhythm, typography hierarchy, motion cadence.
-- **Cognitive-load design**: interfaces that guide decisions instead of outsourcing thinking to the user.
+### Financial operations and transaction reporting — Smart Plan Blueprint
 
-This isn’t hobby code.  
-It’s infrastructure wearing a friendly UI.
+**Professional work · React · TypeScript · Node.js/Express · Kafka**
 
-> Software should feel inevitable — like it always wanted to work this way.
+Led frontend and product delivery across bank, wallet, merchant and admin portals, turning payment operations requirements into role-based transaction and reporting workflows.
 
-[![committers.top badge](https://user-badge.committers.top/botswana_private/chalebgwa.svg)](https://user-badge.committers.top/botswana_private/chalebgwa)
+- Built transaction logs, report filters, reconciliation views and reusable dashboard components.
+- Worked on bank and mobile-network integrations covering wallet-to-bank flows, callbacks, authentication and reporting; supported UAT with three network providers.
+- Contributed to ingestion and backend services, including batching, dead-letter handling and idempotent replay.
+- Investigated integration failures and documented test evidence, blockers and handovers for technical and operations teams.
 
----
-```mermaid
-stateDiagram-v2
-  direction LR
+### [Mokgweetsi — Botswana driving education](https://github.com/Chalebgwa/mokgweetsi)
 
-  [*] --> DefineIntent: Problem framing
-  DefineIntent --> ModelState: Model the workflow
-  ModelState --> DataContracts: Data + contracts
-  DataContracts --> BuildUI: UI system + components
-  BuildUI --> WireBackend: Transactions + idempotency
-  WireBackend --> Observability: Logs + metrics + audit
-  Observability --> Hardening: Security + failure modes
-  Hardening --> Ship: Release
+**Personal project · React · Vite · Firebase · i18next**
 
-  Ship --> ObserveInProd: Monitor + learn
-  ObserveInProd --> Iterate: Tight feedback loop
-  Iterate --> ModelState: Refine states & edges
+A locally focused driving-test preparation product bringing practice assessments, study materials and learner progress into one application.
 
-  note right of ModelState
-    Explicit states.
-    Explicit transitions.
-    Explicit failure behavior.
-  end note
+The project brings together Firebase-backed authentication and data, English/Setswana localization, and assessment and progress interfaces—combining product design with application engineering.
 
-  note right of WireBackend
-    Retries happen.
-    Duplicate events happen.
-    Systems must remain correct.
-  end note
-```
+[Explore the repository](https://github.com/Chalebgwa/mokgweetsi)
 
+### BIFM mobile investment app
 
----
+**Professional contribution · Flutter · Firebase**
 
-## 🧭 Operating Principles
+Contributed to investment workflows covering onboarding, portfolio dashboards, fund discovery, transactions and identity flows, with reusable Flutter interfaces.
 
-- **State machines over vibes**: every workflow has named states, transitions, and invalid moves.
-- **Idempotent by default**: retries are expected; correctness survives duplication and partial failure.
-- **Observable or it didn’t happen**: logs, traces, audit trails, and metrics are first-class features.
-- **Cognitive load is a bug**: UI should reduce thinking, not request it.
-- **Security is a product feature**: verification, sequencing, and least-privilege everywhere.
+This work connects financial product requirements with mobile application flows and interface design.
 
+## More work
 
+- **Government water and sanitation platform:** application workflows covering stakeholder consultation, progress tracking, document handling, controlled status transitions, secure invitations and QR-linked certificates.
+- **UN sanctions checker:** a Node.js/Express API for screening names and aliases against the UN consolidated sanctions feed, with hourly refresh, health endpoints and Swagger documentation.
+- **[Themis](https://github.com/Chalebgwa/Themis):** a Flutter project exploring case and client workflows for legal operations.
 
+## How I approach engineering
 
----
+- Model workflow states, transitions and failure paths explicitly.
+- Account for retries, duplicate events and partial failures in integration work.
+- Make operational issues traceable through useful logs and clear diagnostics.
+- Build reusable interfaces that help users understand and complete complex tasks.
+- Document integration assumptions, test evidence and unresolved dependencies so teams can make informed release decisions.
 
-## 🔧 Tech Stack
+## Let's connect
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+Interested in **Senior Product Engineer**, **Senior Full-Stack Engineer** and **Senior Software Engineer** opportunities involving product ownership, financial systems or complex operational workflows.
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
-
----
-
-### Core Engineering Capabilities
-
-- Architectures driven by **explicit state machines** (not accidental logic)
-- **Idempotent** transaction and webhook flows (retries are normal, not scary)
-- Secure sequencing, verification, and **audit trails** that hold up under pressure
-- UI component systems built on **tokens, spacing grids, and motion cadence**
-- Interfaces that **reduce cognition**, increase confidence, and prevent wrong moves
-- Code that stays readable when timelines get violent
-
----
-
-## ⚡ Spotlight Projects
-
-| Project | Description | Repo Link |
-|--------|-------------|----------|
-| **Project Veritas** | Converts raw ideas into structured architectures and reports — turning “vibes” into execution artifacts. | https://github.com/chalebgwa/project_veritas |
-| **Poseidon** | Adversarial simulation toolkit for cyber research and SOC training — designed for realistic pressure testing. | https://github.com/chalebgwa/poseidon |
-| **Insight** | Recon + reporting framework for surface/internal asset visibility — built for clarity and actionability. | https://github.com/chalebgwa/insight |
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Repo Link |
-|--------|-------------|------------|----------|
-| **Themis** | Case + client workflow orchestration for legal operations — structured flows, clean handoffs. | Flutter | https://github.com/chalebgwa/Themis |
-| **Gadget Security** | Fraud-resistant device ownership + transfer verification — identity and trust at the core. | Flutter, Firebase | https://github.com/chalebgwa/gadget-security |
-| **SkeifCV** | Minimal CV builder: tight typography, clean templates, no noise. | HTML/CSS/JS | https://github.com/chalebgwa/SkeifCV |
-| **Global Transparency Dashboard** | Macroeconomic + governance metrics visualization layer — signal over spectacle. | JS | https://github.com/chalebgwa/global-transparency-dashboard |
-
----
-
-## 📈 GitHub Stats & Activity
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=chalebgwa&show_icons=true&count_private=true&theme=default)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chalebgwa&theme=default)
-
----
-
-## 🎉 Fun Extras
-
-- **Resident Feline Supervisor**: Princess  
-- Music stays on while I build  
-- I sometimes build small systems just to find the hidden assumptions
-
----
-
-## 📫 Connect
-
-[![Email](https://img.shields.io/badge/Email-Mail%20Me-red?logo=gmail)](mailto:chalebgwa.bc@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/chalebgwa)  
-[![Twitter](https://img.shields.io/badge/Twitter-🐦-skyblue?logo=twitter)](https://twitter.com/chalebgwa)  
-[![Resume](https://img.shields.io/badge/Resume-Download-green?logo=adobe-pdf)](https://chalebgwa.dev/resume.pdf)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chalebgwa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chalebgwa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chalebgwa/output/github-snake.svg" />
-</picture>
-
-**System-level thinking. Precise execution. No wasted motion.**
+[chalebgwa.dev](https://chalebgwa.dev) · [LinkedIn](https://linkedin.com/in/chalebgwa) · [chalebgwa.bc@gmail.com](mailto:chalebgwa.bc@gmail.com)
