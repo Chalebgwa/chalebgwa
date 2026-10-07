@@ -33,8 +33,7 @@ The project brings together Firebase-backed authentication and data, English/Set
 
 ## More work
 
-- **Government water and sanitation platform:** application workflows covering stakeholder consultation, progress tracking, document handling, controlled status transitions, secure invitations and QR-linked certificates.
-- **UN sanctions checker:** a Node.js/Express API for screening names and aliases against the UN consolidated sanctions feed, with hourly refresh, health endpoints and Swagger documentation.
+- **Lesedi Project:** a Node.js/Express API for screening names and aliases against the UN consolidated sanctions feed, with hourly refresh, health endpoints and Swagger documentation.
 - **[Themis](https://github.com/Chalebgwa/Themis):** a Flutter project exploring case and client workflows for legal operations.
 
 ## How I approach engineering
