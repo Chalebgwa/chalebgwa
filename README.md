@@ -1,73 +1,83 @@
+<div align="center">
+
 # Pako Chalebgwa
 
-**Senior Product Engineer**  
-Full-Stack Systems · Fintech · Data Platforms · Product Architecture
+### Senior Product Engineer
+**Full-stack engineering · Web and mobile products · Product architecture**
 
-I build systems that turn complex operations into usable software.
+I turn complex requirements into software people can use.
 
-Based in **Gaborone, Botswana (UTC+2)**. Open to remote engineering roles and contracts.
+Gaborone, Botswana · UTC+2 · Open to remote roles and contracts
 
-[Portfolio](https://chalebgwa.dev) · [LinkedIn](https://linkedin.com/in/chalebgwa) · [Email](mailto:chalebgwa.bc@gmail.com)
+[Portfolio](https://chalebgwa.dev) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/chalebgwa) &nbsp; / &nbsp; [Email](mailto:chalebgwa.bc@gmail.com)
 
-## What I bring
+</div>
 
-I work across frontend systems, APIs, integrations, data workflows and cloud infrastructure. My experience spans financial operations, government services and consumer products—from translating requirements into application workflows through integration testing, release and production troubleshooting.
+---
 
-- **Product delivery:** React/TypeScript interfaces, reusable components and business workflows connected to backend services.
-- **Integration reliability:** investigating authentication, connectivity, callback and transaction failures across application and provider boundaries.
+## Engineering with a product perspective
 
-**Core stack:** TypeScript · React · Node.js · Python · SQL · Firebase · GCP  
-**Supporting tools:** Flutter · Express · MongoDB · Kafka · Docker · GitHub Actions
+I'm a software engineer with **5+ years of professional experience** delivering web and mobile products. I work across React and TypeScript interfaces, backend services, API integrations, data and cloud infrastructure.
+
+My strength is connecting the user experience to the system behind it: translating operational requirements into application workflows, building reusable interfaces, integrating services, and following the work through testing, release and production troubleshooting.
+
+Design is part of that work. I care about clear navigation, accessible layouts and interfaces that help people complete difficult tasks.
 
 ## Selected shipped work
 
-### [BHC — Botswana Housing Corporation website](https://www.bhc.bw/)
+### 01 &nbsp; BHC website
+**Botswana Housing Corporation · Housing and public services**
 
-**Client website · Housing and public services**
+My work includes contributions to the BHC website, a public platform for housing information, property listings, services and corporate updates.
 
-Contributed to the Botswana Housing Corporation website, providing a public entry point to housing information, property listings, services and corporate updates.
+**Why it matters:** puts an established housing organisation's information and services within reach of the people it serves.
 
-[Visit the live website](https://www.bhc.bw/)
+[Visit the live website →](https://www.bhc.bw/)
 
-### [Youth Spot — Youth wellbeing mobile product](https://app.steppingstonesintl.org/)
+### 02 &nbsp; Youth Spot
+**Youth wellbeing · Mobile product · Flutter**
 
-**Mobile product · Flutter**
+Contributed to a mobile application bringing wellbeing information and support resources to young people. The product has a public landing page, and my GitHub includes a Flutter repository.
 
-Contributed to Youth Spot, a youth wellbeing application bringing information and support resources into a mobile experience.
+**Why it matters:** makes useful information and support accessible through a mobile experience.
 
-[Visit the public product page](https://app.steppingstonesintl.org/) · [Explore the Flutter repository](https://github.com/Chalebgwa/YouthSpot2025)
+[Product page →](https://app.steppingstonesintl.org/) &nbsp; [Flutter repository →](https://github.com/Chalebgwa/YouthSpot2025)
 
-### Course Guide — Education and career discovery
+### 03 &nbsp; Course Guide
+**Education · Course and career discovery · Published mobile product**
 
-**Published mobile product**
+Worked on a mobile application helping students explore tertiary institutions, courses and entry requirements. Published on Google Play.
 
-Worked on Course Guide, a mobile application helping students explore tertiary institutions, courses and entry requirements. Published on Google Play.
+**Why it matters:** helps students find information they need to make education decisions.
 
-## Additional product work
+## Independent engineering
 
-### Mokgweetsi — Botswana driving education
+| Project | Focus | Technology |
+| --- | --- | --- |
+| **Mokgweetsi** | Botswana driving-test preparation with practice assessments, progress tracking and English/Setswana localization. Source code is private. | React, Vite, Firebase, i18next |
+| **Lesedi Project** | API screening of names and aliases against the UN consolidated sanctions feed, with hourly refresh, health endpoints and API documentation. | Node.js, Express, XML, REST |
+| **[Themis](https://github.com/Chalebgwa/Themis)** | Legal operations workflows spanning clients, appointment booking, calendars, documents and transaction monitoring. | Flutter |
 
-**Personal project · React · Vite · Firebase · i18next**
+## What I work with
 
-A locally focused driving-test preparation product bringing practice assessments, study materials and learner progress into one application.
+**Core:** TypeScript · React · Node.js · Python · SQL · Firebase · GCP
 
-The project brings together Firebase-backed authentication and data, English/Setswana localization, and assessment and progress interfaces. Source code is private.
+**Supporting:** Flutter · Express · MongoDB · Kafka · Docker · GitHub Actions
 
-## More work
+- **Frontend and product:** reusable components, responsive layouts, design systems and application state.
+- **Backend and integrations:** REST APIs, authentication, role-based access and data workflows.
+- **Reliable delivery:** explicit workflow states, retry handling, useful diagnostics, integration testing and technical documentation.
 
-- **Lesedi Project:** a Node.js/Express API for screening names and aliases against the UN consolidated sanctions feed, with hourly refresh, health endpoints and Swagger documentation.
-- **[Themis](https://github.com/Chalebgwa/Themis):** a Flutter project exploring case and client workflows for legal operations.
+## Recognition
 
-## How I approach engineering
+- SmartBots / BDIH UI/UX Design Hack **grand-prize winner**, as part of the Digital Natives team.
+- BHC and 1Gov hackathon wins.
+- Published Course Guide and Youth Spot applications on Google Play.
 
-- Model workflow states, transitions and failure paths explicitly.
-- Account for retries, duplicate events and partial failures in integration work.
-- Make operational issues traceable through useful logs and clear diagnostics.
-- Build reusable interfaces that help users understand and complete complex tasks.
-- Document integration assumptions, test evidence and unresolved dependencies so teams can make informed release decisions.
+## Work with me
 
-## Let's connect
+I'm interested in **Senior Product Engineer**, **Senior Full-Stack Engineer** and **Senior Software Engineer** roles where I can take responsibility for product delivery across interfaces, APIs and integrations.
 
-Interested in **Senior Product Engineer**, **Senior Full-Stack Engineer** and **Senior Software Engineer** opportunities involving product ownership, financial systems or complex operational workflows.
+**Based in Botswana, working in UTC+2.**
 
-[chalebgwa.dev](https://chalebgwa.dev) · [LinkedIn](https://linkedin.com/in/chalebgwa) · [chalebgwa.bc@gmail.com](mailto:chalebgwa.bc@gmail.com)
+[Explore my work](https://chalebgwa.dev) · [Connect on LinkedIn](https://linkedin.com/in/chalebgwa) · [Get in touch](mailto:chalebgwa.bc@gmail.com)
